@@ -57,7 +57,7 @@ p {
 
 a {
   color: black;
-  text-decoration: black;
+  text-decoration: none;
 }
 
 a:hover {
